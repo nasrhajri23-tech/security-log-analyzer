@@ -41,16 +41,3 @@ Language: Python 3
 Execution: Command-line interface (CLI)
 
 
-Future Improvements
-Time-window-based detection (e.g., X attempts within Y minutes)
-Support for multiple log formats
-Automatic IP blocking integration
-Alert enrichment (timestamps, usernames, GeoIP)
-
-
-Learning Outcomes
-Practiced Linux command-line usage and log inspection
-Python scripting for security automation
-Authentication log analysis
-Basic intrusion detection concepts
-Translating raw logs into actionable security findings
